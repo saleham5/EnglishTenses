@@ -1,0 +1,33 @@
+.mods {
+    text-align: center;
+    padding: 5%;
+    line-height: 1.5;
+}
+
+.h1-style {
+    text-align: center;
+    background-color: #303F9F;
+    margin: 0;
+    padding: 10px 0px;
+    color: #C5CAE9;
+}
+
+hr {
+    border-style: none;
+    border-top-style: solid;
+    border-color: #BDBDBD;
+    border-width: 5px;
+    margin: 0px;
+}
+
+p {
+    margin-top: 10px;
+    background-color: yellow;
+    padding: 5%;
+    line-height: 1.5;
+}
+
+.btn-lg {
+    padding-right: 60px;
+    padding-left: 60px;
+}

@@ -1,0 +1,24 @@
+body {
+    background-color: #DCEDC8;
+}
+
+h1 {
+    text-align: center;
+    background-color: yellow;
+}
+
+div {
+    font-size: 30px;
+    padding: 5px;
+}
+
+h4 {
+    display: inline;
+    background-color: rgb(101, 219, 101);
+}
+
+.mods {
+    text-align: center;
+    padding: 5%;
+    line-height: 1.5;
+}
